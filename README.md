@@ -1,6 +1,6 @@
-#Hinário nº 5 CCB em Fá (trompa e corne-inglês)
+#Hinário nº 5 CCB em Fá (trompa, corne-inglês e tuba)
 
-Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Fá como trompa e corne-inglês.
+Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Fá como a trompa em fá ou fá/sib, corne-inglês e tuba.
 O objetivo é disponbilizar, em formato digital, uma versão em fá do hinário original em dó.
 
 <h2>Novidades</h2>
@@ -20,6 +20,10 @@ Versões demonstrativas dos hinos podem ser encontradas no link:
 * Coros: 1 a 6
 
 Restante: 0
+
+<h2>Download</h2>
+
+* [Baixe o arquivo PDF clicando aqui](https://raw.githubusercontent.com/neneias/ccb-hinario-5-fa/master/fa/pdf/final.pdf)
 
 <h2>Condições de Uso</h2>
 
