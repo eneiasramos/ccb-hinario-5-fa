@@ -32,7 +32,7 @@ Restante: 0
 * Estes arquivos devem ser distribuídos gratuitamente.
 * A venda (em formato digital ou impressa), está terminantemente proibida!
 
-Copyright © Enéias Ramos de Melo. Todos os direitos reservados.
+Copyright © 2016 Enéias Ramos de Melo. Todos os direitos reservados.
 
 **ATENÇÃO: Esse projeto não tem nenhum tipo de vínculo com a CCB.**
 
