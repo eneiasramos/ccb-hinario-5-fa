@@ -32,6 +32,15 @@ Restante: 0
 * Estes arquivos devem ser distribuídos gratuitamente.
 * A venda (em formato digital ou impressa), está terminantemente proibida!
 
+<h2>Outros Hinários</h2>
+
+* [Hinário em Ré](https://github.com/neneias/ccb-hinario-5-re)
+* [Hinário em Mi bemol - 2ª Clave de Sol](https://github.com/neneias/ccb-hinario-5-mib-2s)
+* [Hinário em Sol](https://github.com/neneias/ccb-hinario-5-sol)
+* [Hinário em Lá](https://github.com/neneias/ccb-hinario-5-la)
+
+---
+
 Copyright © 2016 Enéias Ramos de Melo. Todos os direitos reservados.
 
 **ATENÇÃO: Esse projeto não tem nenhum tipo de vínculo com a CCB.**
