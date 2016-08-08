@@ -38,6 +38,7 @@ Restante: 0
 * [Hinário em Mi bemol - 2ª Clave de Sol](https://github.com/neneias/ccb-hinario-5-mib-2s)
 * [Hinário em Sol](https://github.com/neneias/ccb-hinario-5-sol)
 * [Hinário em Lá](https://github.com/neneias/ccb-hinario-5-la)
+* [Hinário em Si bemol](https://github.com/neneias/ccb-hinario-5-sib)
 
 ---
 
